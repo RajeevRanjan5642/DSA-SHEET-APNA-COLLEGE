@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-SHEET-APNA-COLLEGE.iml" filepath="$PROJECT_DIR$/.idea/DSA-SHEET-APNA-COLLEGE.iml" />
+    </modules>
+  </component>
+</project>
