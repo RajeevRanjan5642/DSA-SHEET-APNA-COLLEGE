@@ -31,3 +31,9 @@ public class SearchInRotatedArray {
         System.out.println(search(nums,target));
     }
 }
+
+/*
+Approach = Binary Search
+T.C = O(log(N))
+S.C = 0(1)
+*/
