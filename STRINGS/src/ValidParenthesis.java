@@ -25,3 +25,7 @@ public class ValidParenthesis {
         System.out.println(isValid(str));
     }
 }
+/*
+T.C = O(N)
+S.C = O(N)
+*/
